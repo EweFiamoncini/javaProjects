@@ -1,5 +1,3 @@
-import java.io.IOException;
-
 public class calcIMC {
     public static void main(String[] args) {
 
