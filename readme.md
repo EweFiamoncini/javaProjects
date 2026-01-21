@@ -1,6 +1,6 @@
-# 🚀 Meus Desenvolvimentos em Java
+# ☕ Meus Desenvolvimentos em Java
 
-Bem-vindo ao meu repositório central de estudos e projetos em Java. Aqui documento minha jornada, desde algoritmos fundamentais até o desenvolvimento de APIs complexas e sistemas robustos.
+Bem-vindo ao meu repositório central de projetos em Java. Aqui documento minha jornada, desde algoritmos fundamentais até o desenvolvimento de APIs complexas e sistemas robustos.
 
 ## 📌 Sobre o Repositório
 Este repositório serve como um portfólio técnico onde organizo:
@@ -23,24 +23,15 @@ Este repositório serve como um portfólio técnico onde organizo:
 ## 📂 Estrutura do Repositório
 Abaixo, os principais diretórios e o que você encontrará em cada um:
 
-* /logica-algoritmos: Fundamentos, estruturas condicionais e de repetição.
-
-* /orientacao-objetos: Projetos focados em pilares como Abstração, Herança e Polimorfismo.
-
-* /spring-api: Microserviços e APIs RESTful desenvolvidas com Spring.
-
-* /desafios-codigo: Minhas soluções para problemas de maratona de programação.
+* `javaProjects/Fundamentos da Linguagem Java`: Fundamentos básicos da linguagem.
+* `javaProjects/Estruturas de Controle`: Estruturas condicionais e de repetição.
 
 ## 📈 Roadmap de Estudos
-[x] Sintaxe básica e tipos de dados.
-
-[ ] Orientação a Objetos (POO).
-
-[ ] Manipulação de Exceções e Generics.
-
-[ ] Spring Data JPA e Segurança.
-
-[ ] Testes Unitários com Mockito.
+- [x] Sintaxe básica e tipos de dados.
+- [ ] Orientação a Objetos (POO).
+- [ ] Manipulação de Exceções e Generics.
+- [ ] Spring Data JPA e Segurança.
+- [ ] Testes Unitários com Mockito.
 
 ## ✉️ Contato
 Conecte-se comigo ou tire dúvidas sobre os códigos:
