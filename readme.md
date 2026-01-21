@@ -23,8 +23,8 @@ Este repositório serve como um portfólio técnico onde organizo:
 ## 📂 Estrutura do Repositório
 Abaixo, os principais diretórios e o que você encontrará em cada um:
 
-* `javaProjects/Fundamentos da Linguagem Java`: Fundamentos básicos da linguagem.
-* `javaProjects/Estruturas de Controle`: Estruturas condicionais e de repetição.
+* `javaProjects/Sintaxe Básica/Fundamentos da Linguagem Java`: Fundamentos básicos da linguagem.
+* `javaProjects/Sintaxe Básica/Estruturas de Controle`: Estruturas condicionais e de repetição.
 
 ## 📈 Roadmap de Estudos
 - [x] Sintaxe básica e tipos de dados.
