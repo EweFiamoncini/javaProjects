@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class cadNameDate {
     public static void main(String[] args) {
 
@@ -8,7 +6,7 @@ public class cadNameDate {
         System.out.println("===================================================================");
         System.out.println("");
 
-        var scanner = new Scanner(System.in);
+        var scanner = new java.util.Scanner(System.in);
 
         System.out.print("Digite seu nome: ");
         var name = scanner.nextLine();
