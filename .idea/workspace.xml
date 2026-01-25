@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea06fe1e-20a5-412d-8d65-993bc81c943d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/gerenciadorDeTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/GerenciadorDeTarefas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/GerenciadorDeTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/taskManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.GerenciadorDeTarefas.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ewerton Fiamoncini/Documents/javaProjects",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GerenciadorDeTarefas.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ewerton Fiamoncini/Documents/javaProjects&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="GerenciadorDeTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GerenciadorDeTarefas" />
+    <configuration name="taskManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taskManager" />
       <module name="javaProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,7 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GerenciadorDeTarefas" />
+        <item itemvalue="Application.taskManager" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +84,8 @@
       <workItem from="1769304996772" duration="542000" />
       <workItem from="1769305597872" duration="552000" />
       <workItem from="1769306215170" duration="692000" />
-      <workItem from="1769307328881" duration="1872000" />
+      <workItem from="1769307328881" duration="2129000" />
+      <workItem from="1769365040434" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="feat: addd gerenciadorDeTarefas.java">
       <option name="closed" value="true" />
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769307524900</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: Adicionado parte da seção adicionar tarefas">
+      <option name="closed" value="true" />
+      <created>1769309451057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769309451057</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +124,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add new Java classes for BMI calculation, athlete classification, stock control, sales registration, and freight management; update README.md for improved project structure" />
     <MESSAGE value="feat: addd gerenciadorDeTarefas.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: addd gerenciadorDeTarefas.java" />
+    <MESSAGE value="feat: Adicionado parte da seção adicionar tarefas" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Adicionado parte da seção adicionar tarefas" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
