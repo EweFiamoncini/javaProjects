@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea06fe1e-20a5-412d-8d65-993bc81c943d" name="Changes" comment="" />
+    <list default="true" id="ea06fe1e-20a5-412d-8d65-993bc81c943d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/gerenciadorDeTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/GerenciadorDeTarefas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,9 @@
     &quot;accountId&quot;: &quot;9fafcaa8-dbfa-4dba-9092-33caf9bdd151&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -32,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GerenciadorDeTarefas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -44,6 +51,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="GerenciadorDeTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GerenciadorDeTarefas" />
+      <module name="javaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GerenciadorDeTarefas" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,7 +84,17 @@
       <workItem from="1769304996772" duration="542000" />
       <workItem from="1769305597872" duration="552000" />
       <workItem from="1769306215170" duration="692000" />
+      <workItem from="1769307328881" duration="1872000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: addd gerenciadorDeTarefas.java">
+      <option name="closed" value="true" />
+      <created>1769307524900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769307524900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,7 +114,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add new Java classes for BMI calculation, athlete classification, stock control, sales registration, and freight management; update README.md for improved project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="feat: addd gerenciadorDeTarefas.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: addd gerenciadorDeTarefas.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
