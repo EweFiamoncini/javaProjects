@@ -1,4 +1,4 @@
-public class cadNameDate {
+public class CadNameDate {
     public static void main(String[] args) {
 
         System.out.println("===================================================================");

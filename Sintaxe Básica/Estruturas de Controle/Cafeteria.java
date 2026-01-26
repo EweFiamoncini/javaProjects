@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class cafeteria {
+public class Cafeteria {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

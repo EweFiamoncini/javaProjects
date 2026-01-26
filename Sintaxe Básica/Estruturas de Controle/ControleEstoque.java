@@ -14,7 +14,7 @@ class Produto {
     }
 }
 
-public class controleEstoque {
+public class ControleEstoque {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

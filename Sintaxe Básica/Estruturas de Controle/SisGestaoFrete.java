@@ -1,4 +1,4 @@
-public class sisGestaoFrete {
+public class SisGestaoFrete {
     public static void main(String[] args) {
         // Dados de teste
         String tipo = "PACOTE";

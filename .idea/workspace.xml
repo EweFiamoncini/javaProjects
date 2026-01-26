@@ -7,8 +7,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea06fe1e-20a5-412d-8d65-993bc81c943d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/cafeteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/GerenciadorEstacionamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/ListaCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/NotasDeAlunos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/cafeteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/Cafeteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/calcIMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/CalcIMC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/classificadorAtleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/ClassificadorAtleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/controleEstoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/ControleEstoque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/registroVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/RegistroVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/sisGestaoFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/SisGestaoFrete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/taskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/TaskManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/cadNameDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/CadNameDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/calcAreaQuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/CalcAreaQuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/calcAreaTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/CalcAreaTriangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/difIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Fundamentos da Linguagem Java/DifIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/cadNameDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/cadNameDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/cafeteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/cafeteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/calcAreaQuadrado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/calcAreaQuadrado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/calcAreaTriangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/calcAreaTriangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/calcIMC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/calcIMC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/classificadorAtleta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/classificadorAtleta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/controleEstoque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/controleEstoque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/difIdade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/difIdade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/registroVenda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/registroVenda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/sisGestaoFrete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/sisGestaoFrete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/tabuada.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/tabuada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/taskManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjects/taskManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +81,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.GerenciadorDeTarefas.executor": "Run",
+    "Application.GerenciadorEstacionamento.executor": "Run",
+    "Application.ListaCompras.executor": "Run",
+    "Application.NotasDeAlunos.executor": "Run",
     "Application.cafeteria.executor": "Run",
+    "Application.listaCompras.executor": "Run",
     "Application.taskManager.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Ewerton Fiamoncini/Documents/javaProjects",
@@ -72,7 +104,28 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.cafeteria">
+  <component name="RunManager" selected="Application.GerenciadorEstacionamento">
+    <configuration name="GerenciadorEstacionamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GerenciadorEstacionamento" />
+      <module name="javaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaCompras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaCompras" />
+      <module name="javaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotasDeAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotasDeAlunos" />
+      <module name="javaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="cafeteria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cafeteria" />
       <module name="javaProjects" />
@@ -89,11 +142,17 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.GerenciadorEstacionamento" />
+      <item itemvalue="Application.ListaCompras" />
+      <item itemvalue="Application.NotasDeAlunos" />
       <item itemvalue="Application.cafeteria" />
       <item itemvalue="Application.taskManager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GerenciadorEstacionamento" />
+        <item itemvalue="Application.NotasDeAlunos" />
+        <item itemvalue="Application.ListaCompras" />
         <item itemvalue="Application.cafeteria" />
         <item itemvalue="Application.taskManager" />
       </list>
@@ -120,7 +179,8 @@
       <workItem from="1769306215170" duration="692000" />
       <workItem from="1769307328881" duration="2129000" />
       <workItem from="1769365040434" duration="4931000" />
-      <workItem from="1769390608304" duration="4611000" />
+      <workItem from="1769390608304" duration="4996000" />
+      <workItem from="1769422482007" duration="2634000" />
     </task>
     <task id="LOCAL-00001" summary="feat: addd gerenciadorDeTarefas.java">
       <option name="closed" value="true" />
@@ -154,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769370456461</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: Created basic ordering system for coffee shop">
+      <option name="closed" value="true" />
+      <created>1769395604157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769395604157</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +247,8 @@
     <MESSAGE value="feat" />
     <MESSAGE value="feat: Language Type Editing" />
     <MESSAGE value="feat: I created a project to train my knowledge in arraylist" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: I created a project to train my knowledge in arraylist" />
+    <MESSAGE value="feat: Created basic ordering system for coffee shop" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Created basic ordering system for coffee shop" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

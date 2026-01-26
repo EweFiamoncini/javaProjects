@@ -1,4 +1,4 @@
-public class registroVenda {
+public class RegistroVenda {
     public static void main(String[] args) {
         // declaração de variaveis
         String nomeProduto = "Teclado Mecãnico";

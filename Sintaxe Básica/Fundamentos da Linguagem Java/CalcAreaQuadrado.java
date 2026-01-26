@@ -1,5 +1,5 @@
 
-public class calcAreaQuadrado {
+public class CalcAreaQuadrado {
     public static void main(String[] args) {
 
         System.out.println("=========================================================");

@@ -1,4 +1,4 @@
-public class classificadorAtleta {
+public class ClassificadorAtleta {
     public static void main(String[] args) {
 
         //dados do participante
