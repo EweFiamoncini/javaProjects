@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="javaProjects:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea06fe1e-20a5-412d-8d65-993bc81c943d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/cafeteria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/taskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxe Básica/Estruturas de Controle/taskManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/GerenciadorDeTarefas.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +44,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="38jECu7I6Meog3YFAGIQYDWfYXP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.GerenciadorDeTarefas.executor": "Run",
+    "Application.cafeteria.executor": "Run",
     "Application.taskManager.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,11 +65,22 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Ewerton Fiamoncini/Documents/javaProjects",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "proofread",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.externalTools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.cafeteria">
+    <configuration name="cafeteria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cafeteria" />
+      <module name="javaProjects" />
+      <option name="PROGRAM_PARAMETERS" value="-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5005" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="taskManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="taskManager" />
       <module name="javaProjects" />
@@ -62,8 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.cafeteria" />
+      <item itemvalue="Application.taskManager" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cafeteria" />
         <item itemvalue="Application.taskManager" />
       </list>
     </recent_temporary>
@@ -88,7 +119,8 @@
       <workItem from="1769305597872" duration="552000" />
       <workItem from="1769306215170" duration="692000" />
       <workItem from="1769307328881" duration="2129000" />
-      <workItem from="1769365040434" duration="4667000" />
+      <workItem from="1769365040434" duration="4931000" />
+      <workItem from="1769390608304" duration="4611000" />
     </task>
     <task id="LOCAL-00001" summary="feat: addd gerenciadorDeTarefas.java">
       <option name="closed" value="true" />
@@ -114,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769366751823</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: I created a project to train my knowledge in arraylist">
+      <option name="closed" value="true" />
+      <created>1769370456461</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769370456461</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +178,8 @@
     <MESSAGE value="feat: Adicionado parte da seção adicionar tarefas" />
     <MESSAGE value="feat" />
     <MESSAGE value="feat: Language Type Editing" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Language Type Editing" />
+    <MESSAGE value="feat: I created a project to train my knowledge in arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: I created a project to train my knowledge in arraylist" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
