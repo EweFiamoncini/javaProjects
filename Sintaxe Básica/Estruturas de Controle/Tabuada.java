@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Tabuada {
     public static void main(String[] args) {
 
-        var scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         
         // laço infinito para permitir multiplas tabuadas
         while (true) {
@@ -45,6 +45,7 @@ public class Tabuada {
                     System.out.println("Resposta invalida. Por favor, digite 's' para sim ou 'n' para nao.");
                 }
             }
+            scanner.close(); // fecha o scanner
         }
     }
 };

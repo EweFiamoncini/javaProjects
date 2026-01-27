@@ -1,7 +1,9 @@
+import java.util.Scanner;
+
 public class CalcIMC {
     public static void main(String[] args) {
 
-        var scanner = new java.util.Scanner(System.in);
+        Scanner scanner = new java.util.Scanner(System.in);
 
         while (true) {
 
@@ -41,6 +43,8 @@ public class CalcIMC {
                 System.out.println("Resposta inválida. Encerrando o programa.");
                 break;
             }
+
+            scanner.close(); // fecha o scanner
         }
 
     }
