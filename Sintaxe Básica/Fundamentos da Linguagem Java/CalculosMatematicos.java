@@ -10,6 +10,7 @@ public class CalculosMatematicos {
         var Scanner = new java.util.Scanner(System.in); // objeto scanner para ler entrada do usuario
         double num1, num2;
 
+        // lendo dois números do usuário
         System.out.println("");
         System.out.print("Digite o primeiro número: ");
         num1 = Scanner.nextDouble();
