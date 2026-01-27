@@ -8,7 +8,10 @@ public class IfElse {
         System.out.println("============== ESTRUTURAS DE CONTROLE ==============");
         System.out.println("====================================================");
 
-        String palavra = "Programação";
+        // declarando variaveis
+        String palavra = "";
+        double numero = 0;
+        String resultado = "";
 
         System.out.println("");
         System.out.println("=== if else ===");
@@ -17,7 +20,7 @@ public class IfElse {
         palavra = scanner.nextLine(); // lendo entrada do usuario para a variavel palavra
         
         System.out.println("Digite um número inteiro: ");
-        double numero = scanner.nextDouble(); // lendo entrada do usuario para a variavel numero
+        numero = scanner.nextDouble(); // lendo entrada do usuario para a variavel numero
 
         System.out.println("=== Usando If-Else em numeros ===");
         // verificando se o número é positivo ou negativo
@@ -28,6 +31,9 @@ public class IfElse {
         } else {
             System.out.println("O número " + numero + " é ímpar.");
         }
+        // operador ternario
+        resultado = (numero % 2 == 0) ? "par" : "ímpar"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: O número " + numero + " é " + resultado + ".");
 
         // verificando se o numero é divisivel por 3 e 5
         System.out.println("");
@@ -36,6 +42,9 @@ public class IfElse {
         } else {
             System.out.println("O número " + numero + " não é divisível por 3 e 5.");
         }
+        // operador ternario
+        resultado = (numero % 3 == 0 && numero % 5 == 0) ? "é divisível por 3 e 5" : "não é divisível por 3 e 5"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: O número " + numero + " " + resultado + ".");
 
         // verificando se o numero é inteiro ou decimal
         System.out.println("");
@@ -45,6 +54,9 @@ public class IfElse {
         } else {
             System.out.println("O número " + numeroDecimal + " é um número decimal.");
         }
+        // operador ternario
+        resultado = (numeroDecimal % 1 == 0) ? "inteiro" : "decimal"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: O número " + numeroDecimal + " é " + resultado + ".");
 
         System.out.println("");
         System.out.println("=== Usando If-Else em Palavras ===");
@@ -55,10 +67,9 @@ public class IfElse {
         } else {
             System.out.println("A palavra digitada não é Java.");
         }
-
-        // verificando o tamanho da palavra
-        System.out.println("");
-        System.out.println("O tamanho da palavra digitada é: " + palavra.length());
+        // operador ternario
+        resultado = palavra.equals("Java") ? "é igual a Java" : "não é igual a Java"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: A palavra digitada " + resultado + ".");
 
         // verificando se a palavra é vazia
         System.out.println("");
@@ -67,6 +78,9 @@ public class IfElse {
         } else {
             System.out.println("A palavra digitada não é vazia.");
         }
+        // operador ternario
+        resultado = palavra.isEmpty() ? "é vazia" : "não é vazia"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: A palavra digitada " + resultado + ".");
 
         // verificando se a palavra contém a letra 'a'
         System.out.println("");
@@ -75,6 +89,9 @@ public class IfElse {
         } else {
             System.out.println("A palavra digitada não contém a letra 'a'.");
         }
+        // operador ternario
+        resultado = palavra.contains("a") ? "contém a letra 'a'" : "não contém a letra 'a'"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: A palavra digitada " + resultado + ".");
 
         // verificando se a palavra começa com a letra 'P'
         System.out.println("");
@@ -83,6 +100,9 @@ public class IfElse {
         } else {
             System.out.println("A palavra digitada não começa com a letra 'P'.");
         }
+        // operador ternario
+        resultado = palavra.startsWith("P") ? "começa com a letra 'P'" : "não começa com a letra 'P'"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: A palavra digitada " + resultado + ".");
 
         // verificando se a palavra termina com a letra 'o'
         System.out.println(""); 
@@ -91,7 +111,11 @@ public class IfElse {
         } else {
             System.out.println("A palavra digitada não termina com a letra 'o'.");
         }
+        // operador ternario
+        resultado = palavra.endsWith("o") ? "termina com a letra 'o'" : "não termina com a letra 'o'"; // atribuindo resultado com operador ternário
+        System.out.println("Usando operador ternário: A palavra digitada " + resultado + ".");
 
+        System.out.println("");
         scanner.close();
     }
 }
