@@ -1,3 +1,4 @@
+import java.util.Scanner; // importando a classe Scanner para ler entrada do usuario
 
 public class CalculosMatematicos {
     public static void main(String[] args) {
@@ -7,7 +8,7 @@ public class CalculosMatematicos {
         System.out.println("==================================================");
         
         // declaração de variaveis
-        var Scanner = new java.util.Scanner(System.in); // objeto scanner para ler entrada do usuario
+        var Scanner = new Scanner(System.in); // objeto scanner para ler entrada do usuario
         double num1, num2;
 
         // lendo dois números do usuário
