@@ -33,5 +33,7 @@ public class DifIdade {
         System.out.printf("A diferença de idade entre %s e %s é de %s anos", nome1, nome2, diferenca);
         System.out.println("");
         System.out.println("");
+
+        scanner.close();
     }
 }

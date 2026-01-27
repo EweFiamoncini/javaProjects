@@ -23,5 +23,7 @@ public class CalcAreaTriangulo {
         System.out.println("");
         System.out.println("A área do triângulo é: " + area);
         System.out.println("");
+
+        scanner.close();
     }
 }

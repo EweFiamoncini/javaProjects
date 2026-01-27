@@ -3,7 +3,7 @@ public class CalcAreaQuadrado {
     public static void main(String[] args) {
 
         System.out.println("=========================================================");
-        System.out.println("============== Cálculo da Área do Quadrado ==============");
+        System.out.println("============== CÁLCULO DE ÁREA DO QUADRADO ==============");
         System.out.println("=========================================================");
 
         var Scanner = new java.util.Scanner(System.in);
@@ -16,10 +16,12 @@ public class CalcAreaQuadrado {
 
         System.out.println("");
         System.out.println("=========================================================");
-        System.out.println("============= Cálculo concluído com sucesso! ============");
+        System.out.println("============= CÁLCULO CONCLUÍDO COM SUCESSO! ============");
         System.out.println("=========================================================");
         System.out.println("");
         System.out.println("A área do quadrado de lado " + lado + " é: " + area);
         System.out.println("");
+    
+        Scanner.close();
     }
 }
