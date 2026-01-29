@@ -21,22 +21,22 @@ public class SwtichCase {
         switch (palavra.toLowerCase()) { // convertendo a palavra para minusculo para evitar erros de comparacao
             case "casa":
                 System.out.println("");
-                System.out.println("Palavra encontrada!");
+                System.out.printf("%s encontrada! \n", palavra);
                 System.out.println("");
                 break; // encerrando o case
             case "carro":
                 System.out.println("");
-                System.out.println("Palavra encontrada!");
+                System.out.printf("%s encontrada! \n", palavra);
                 System.out.println("");
                 break; // encerrando o case
             case "moto":
                 System.out.println("");
-                System.out.println("Palavra encontrada!");
+                System.out.printf("%s encontrada! \n", palavra);
                 System.out.println("");
                 break; // encerrando o case
             case "aviao":
                 System.out.println("");
-                System.out.println("Palavra encontrada!");
+                System.out.printf("%s encontrada! \n", palavra);
                 System.out.println("");
                 break; // encerrando o case
             case "sair":
@@ -46,7 +46,7 @@ public class SwtichCase {
                 break; // encerrando o case sair
             default:
                 System.out.println("");
-                System.out.println("Palavra nao reconhecida.");
+                System.out.printf("%s é uma palavra nao reconhecida. \n", palavra);
                 System.out.println("");
                 break; // encerrando o case padrao
         }
