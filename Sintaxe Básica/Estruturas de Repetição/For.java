@@ -11,7 +11,7 @@ public class For {
         // declarando variaveis
         int nRepet = 0;
 
-        System.out.println("=== Estrutura For ===");
+        System.out.println("=== Estrutura de repetição For ===");
 
         System.out.print("\nDigite a quantidade de repetições com limite de 99999: ");
         nRepet = scanner.nextInt(); // lendo o numero digitado pelo usuario

@@ -8,7 +8,7 @@ public class forEach {
         System.out.println("============== ESTRUTURAS DE REPETIÇÃO ==============");
         System.out.println("====================================================");
         
-        System.out.println("=== Estrutura For-Each ===");
+        System.out.println("=== Estrutura de repetição For-Each ===");
 
         System.out.print("\nDigite a quantidade de frutas que deseja adicionar na lista: ");
         int quantidade = scanner.nextInt(); // lendo a quantidade de frutas

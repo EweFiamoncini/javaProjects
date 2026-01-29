@@ -8,7 +8,7 @@ public class forEachBreakContinue {
         System.out.println("============== ESTRUTURAS DE REPETIÇÃO ==============");
         System.out.println("====================================================");
 
-        System.out.println("=== Estrutura For-Each com Break e Continue ===");
+        System.out.println("=== Estrutura de repetição For-Each com Break e Continue ===");
 
         System.out.print("\nDigite o nome dos alunos para adicionar na lista: ");
         String alunos = scanner.nextLine(); // lendo a quantidade de frutas
